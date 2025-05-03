@@ -34,3 +34,4 @@ git clone https://github.com/toto-thi/CSharp_Term2.git
 - **Framework**: .NET Framework
 - **UI Library**: Guna.UI2.WinForms
 - **IDE**: Visual Studio
+- **Database**: MSSQL
